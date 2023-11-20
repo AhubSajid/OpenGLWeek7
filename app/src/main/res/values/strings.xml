@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Week7OpenGL</string>
+    <string name="minusX">MinusX</string>
+    <string name="plusX">PlusX</string>
+    <string name="minusY">MinusY</string>
+    <string name="plusY">PlusY</string>
+    <string name="minusZ">MinusZ</string>
+    <string name="plusZ">PlusZ</string>
+    <string name="rotateClockwise">RotateCW</string>
+    <string name="rotateAnticlockwise">RotateAC</string>
+    <string name="cameraForward">Forward</string>
+    <string name="cameraBack">Back</string>
+</resources>
